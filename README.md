@@ -12,8 +12,7 @@ To enhance the functionality and scalability of the CRUD Notes App, we have inte
 
 Here are some screenshots of the CRUD Notes App:
 
-<img src="https://github.com/user-attachments/assets/e7024b86-5292-40ec-941b-b3d2390ea664
-" alt="Screenshot 1" width="300" />
+<img src="https://github.com/user-attachments/assets/e7024b86-5292-40ec-941b-b3d2390ea664" alt="Screenshot 1" width="300" />
 <img src="https://github.com/user-attachments/assets/a6f3c2b7-ef08-447d-9511-d01d06e488b4" alt="Screenshot 6" width="300" />
 <img src="https://github.com/user-attachments/assets/db7125a8-bae1-48af-95d0-a706d5bfe139" alt="Screenshot 6" width="300" />
 <img src="https://github.com/user-attachments/assets/06cd98a5-9bd7-477e-90ca-69a13bc7ede4" alt="Screenshot 6" width="300" />
