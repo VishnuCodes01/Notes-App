@@ -12,9 +12,12 @@ To enhance the functionality and scalability of the CRUD Notes App, we have inte
 
 Here are some screenshots of the CRUD Notes App:
 
-<img src="https://example.com/screenshot1.png" alt="Screenshot 1" width="300" />
-<img src="https://example.com/screenshot2.png" alt="Screenshot 2" width="300" />
-<img src="https://example.com/screenshot3.png" alt="Screenshot 3" width="300" />
+<img src="file:///C:/Users/hiide/Pictures/Screenshot_1726058961.png" alt="Screenshot 1" width="300" />
+<img src="file:///C:/Users/hiide/Pictures/Screenshot_1726058975.png" alt="Screenshot 2" width="300" />
+<img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059001.png" alt="Screenshot 3" width="300" />
+<img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059009.png" alt="Screenshot 4" width="300" />
+<img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059032.png" alt="Screenshot 5" width="300" />
+<img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059035.png" alt="Screenshot 6" width="300" />
 
 ## Test APK
 
