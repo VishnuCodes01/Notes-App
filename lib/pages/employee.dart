@@ -23,6 +23,7 @@ class _EmployeeState extends State<Employee> {
       child: Scaffold(
         appBar: AppBar(
           automaticallyImplyLeading: false,
+          surfaceTintColor: Colors.transparent,
           title: const Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
@@ -167,7 +168,7 @@ class _EmployeeState extends State<Employee> {
                                   toastLength: Toast.LENGTH_SHORT,
                                   gravity: ToastGravity.CENTER,
                                   timeInSecForIosWeb: 1,
-                                  backgroundColor: const Color(0xFF00FF3C),
+                                  backgroundColor: Colors.red,
                                   textColor: Colors.white,
                                   fontSize: 16.0);
                             },
