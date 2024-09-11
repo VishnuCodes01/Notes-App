@@ -22,7 +22,6 @@ class _EmployeeState extends State<Employee> {
       onTap: () => FocusScope.of(context).unfocus(),
       child: Scaffold(
         appBar: AppBar(
-          automaticallyImplyLeading: false,
           surfaceTintColor: Colors.transparent,
           title: const Row(
             mainAxisAlignment: MainAxisAlignment.center,
