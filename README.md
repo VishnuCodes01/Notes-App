@@ -18,6 +18,7 @@ Here are some screenshots of the CRUD Notes App:
 <img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059009.png" alt="Screenshot 4" width="300" />
 <img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059032.png" alt="Screenshot 5" width="300" />
 <img src="file:///C:/Users/hiide/Pictures/Screenshot_1726059035.png" alt="Screenshot 6" width="300" />
+![Screenshot_1726058961](https://github.com/user-attachments/assets/e7024b86-5292-40ec-941b-b3d2390ea664)
 
 ## Test APK
 
