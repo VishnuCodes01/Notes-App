@@ -1,5 +1,6 @@
 # CRUD Notes App
 
+## You Can also check and download our apk to click the Releases Also 😁😎
 ## Introduction
 
 Welcome to the **CRUD Notes App** repository! This application allows users to create, read, update, and delete notes efficiently. Designed with a user-friendly interface, it provides a seamless experience for managing personal notes. The app supports a variety of functionalities, including organizing notes by category, searching for specific content, and editing notes with ease.
@@ -18,16 +19,3 @@ Here are some screenshots of the CRUD Notes App:
 <img src="https://github.com/user-attachments/assets/06cd98a5-9bd7-477e-90ca-69a13bc7ede4" alt="Screenshot 6" width="300" />
 <img src="https://github.com/user-attachments/assets/67061747-7d00-4aa2-a8cd-d3fecd801456" alt="Screenshot 6" width="300" />
 <img src="https://github.com/user-attachments/assets/a86853f7-d374-4be0-a62c-117ec4cea606" alt="Screenshot 6" width="300" />
-
-
-
-
-
-
-## Test APK
-
-You can download the test APK for the CRUD Notes App from the following link:
-
-[Download Test APK](https://example.com/test-apk-download)
-
-Feel free to explore the app and provide any feedback or contributions!
